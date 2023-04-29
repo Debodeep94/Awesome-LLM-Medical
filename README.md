@@ -1,1 +1,1 @@
-# Awesome-LLM-Medical
+# Awesome-LLM-Medical [![Awesome](figures/awesome.svg)](https://github.com/Debodeep94/Awesome-LLM-Medical)
