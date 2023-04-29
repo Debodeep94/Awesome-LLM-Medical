@@ -4,7 +4,9 @@ In this repository, we are interested in collecting the articles based on the us
 
 LLM's offer a diverse range of usage in various fields. Even when focus on a specific domain, in particular medical domain, LLM's can be used to perform a varity of tasks. We categorise the variations into the following segments.
 
-$\bullet$ Interactive chatting
+- Content
 
-$\bullet$ Fixed objective oriented task
+    - Interactive chatting
+
+    - Fixed objective oriented task
 
